@@ -1,0 +1,28 @@
+name: vankleef.band
+favicon: null
+layout_spectrum: 0.6425383363384753
+typography_spectrum: 0.25382078415714204
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.13512488501146436
+  lightness: 0.0559924126137048
+  saturation: 0.04239026946015656
+  rhythmicContrast: 0.5882784815039486
+purpose: []
